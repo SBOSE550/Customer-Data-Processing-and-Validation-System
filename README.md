@@ -12,7 +12,7 @@ Customer data, collected manually or through multiple channels, is often prone t
 The Customer Data Processing and Validation System is a Python-based tool designed to streamline the validation, cleaning, and merging of customer data into a master dataset. It addresses the aforementioned challenges by automating the following tasks:
 1. Data Validation:
    - Identifies and handles missing fields.
-   - Ensures data consistency (e.g., standardizing date formats, validating email addresses).
+   - Ensures data consistency (e.g., standardizing date formats, and validating email addresses).
    - Removes duplicate records by comparing customer attributes (e.g., name, phone number).
 
 2. Data Cleaning:
@@ -21,7 +21,7 @@ The Customer Data Processing and Validation System is a Python-based tool design
 3. Geo-Coordinates Integration:
    - Automatically captures and associates geo-coordinates from app-submitted forms to enrich customer data.
 4. Scalable Processing:
-   - Handles up to 200 customer records at a time, ensuring smooth and efficient operation for bulk data.Handles up to 200 customer records at a time, ensuring smooth and efficient operation for bulk data.
+   - Handles up to 200 customer records at a time, ensuring smooth and efficient operation for bulk data. Handles up to 200 customer records at a time, ensuring smooth and efficient operation for bulk data.
 5. Integration with Master Dataset:
    - Validates and transfers processed data to the master dataset only after customers complete their first interaction.
 ## Skills Showcased
