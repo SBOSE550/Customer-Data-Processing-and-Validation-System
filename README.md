@@ -31,5 +31,8 @@ The Customer Data Processing and Validation System is a Python-based tool design
 - Real-World Application: Leveraged technical skills to solve a pressing problem in my role, demonstrating impact and efficiency.
 ## Why This Matters
 This project reflects my ability to identify business challenges, devise effective solutions, and implement them with a focus on accuracy and efficiency. It not only improves data management processes but also ensures business decisions are based on reliable information.
+## Related Links
+- To read the blog explaining how to use Fuzzy Match for Data Cleaning and processing, [Automating-Sales-Data-Integrity-How-Python-Solved-Duplicate-Entries-And-Misclassification](https://medium.com/@soumyadeepbose550/automating-sales-data-integrity-how-python-solved-duplicate-entries-and-misclassification-dee39f24ea47)
+- Note Book: [Data_Cleaning_and_Processing_with_Fuzzy_Matching.ipynb](https://github.com/SBOSE550/Customer-Data-Processing-and-Validation-System/blob/main/Data_Cleaning_and_Processing_with_Fuzzy_Matching.ipynb)
 
 
