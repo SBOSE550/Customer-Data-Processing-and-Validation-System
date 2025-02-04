@@ -1,0 +1,4 @@
+Id,User Id,username,Name,For date,Latitude,Longitude,Customer Name,Business Status,Sub Status,Customer Service Type,If Indirect,then DB Name,Customer Business Potentional,Mustard Oil (MT),Soyabean Oil (MT),Rice Bran Oil (MT),Sunflower Oil (MT),Plam Oil (MT),Loose Oil (MT),Status Remarks for Oils,Pure Spices (KG),Blend Spices (KG),Soya Chunk (KG),Others (KG),Remarks for Foods,Upload Image for Visit
+1,123,user1,John Doe,02/11/2024,19.0760,72.8777,"ABC Food Corp",Active,Regular,Direct,,High,13,8,5,6,10,4,Regular Customer,65,35,18,9,Regular Customer,image4.jpg
+2,456,user2,Jane Smith,06/11/2024,12.9716,77.5946,"XYZ Retailers ",Active,Regular,Indirect,"PQR Traders",Medium,7,10,3,1,4,0,Regular Customer,80,40,15,7,Regular Customer,image5.jpg
+3,789,user3,David Lee,11/11/2024,28.6139,77.2090,"PQR Restaurants",Active,Regular,Direct,,High,16,11,8,6,13,5,Regular Customer,25,15,5,3,Regular Customer,image6.jpg
